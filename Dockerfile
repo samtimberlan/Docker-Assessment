@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:carbon
 
 MAINTAINER Tim Udoma <timudoma@gmail.com>
 
